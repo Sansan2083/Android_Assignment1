@@ -1,7 +1,9 @@
 # Android Assignment 1
 Dart programs performed during my remote android development internship at Compozent.
 
-The readme file of this repo contains the worksheet/questions and also some hints to solve them: https://github.com/Compozent/Dart-Programming
+The readme file of this repo contains the worksheet/questions and also some hints to solve them:
+
+https://github.com/Compozent/Dart-Programming
 
 Run on online DartPad compiler.
 

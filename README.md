@@ -1,6 +1,8 @@
 # Android Assignment 1
 Dart programs performed during my remote android development internship at Compozent.
+
 Run on online DartPad compiler.
+
 These are the screenshots of my work for all questions.
 
 Simple questions:
@@ -19,4 +21,9 @@ Intermediate questions:
 
 Advanced questions:
 ![image](https://github.com/user-attachments/assets/84dd5c34-2d9e-400b-a569-d38e660a1eb8)
-![image](https://github.com/user-attachments/assets/8d180ee7-5fe7-41c1-b0d2-a9731aa89458)
+![image](https://github.com/user-attachments/assets/3abb7dfd-3ac4-4ffa-9484-ce70190a81a9)
+![image](https://github.com/user-attachments/assets/f8e06324-114d-4224-9453-84f3667a4601)
+![image](https://github.com/user-attachments/assets/d9a5a83d-d23d-4cf9-8ebf-f392b186855a)
+
+Bonus questions:
+![image](https://github.com/user-attachments/assets/61ee1569-8bf4-41eb-9d3e-ff4ddab34d16)
